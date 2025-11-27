@@ -1,3 +1,3 @@
-# C-Programming
-All about C Language <br>
-Author - Gaurav Singh
+# C Programming Tutorial
+This is my complete C programming practice project.
+
